@@ -1,3 +1,5 @@
+# NAME : DAKSHINA MOORTHY N D
+# REG NO : 212224230049
 # EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -71,4 +73,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus, Exploratory Data Analysis on the given data set is verified successfully
